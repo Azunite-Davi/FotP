@@ -117,16 +117,17 @@ label chapter_2:
     "Right now, he couldn’t bear the thought of being hurt by others."
     "Even though he grew accustomed to his preference being frowned upon by many others of his kin, he found refuge in being all by himself. Refuge by hiding in corners and not speaking up."
     "But then, one day, he found someone hiding in his spot. "
-# [flashback sequence]
+    scene hideout2 with Dissolve(2)
+    nvl clear
     nvlNar "..."
     nvlNar "He was squinting and contorting himself to penetrate the crevices of his hideout."
-    nvlNar "He felt an odd presence, larger than himself. He then noticed an antler peeking out."
+    nvlNar "He felt an odd presence, larger than himself. {w}He then noticed an antler peeking out."
     nvlNar "At first, Nabisin thought it would poke out his eye, blinding him."
-    nvlNar "He kept at a safe distance. The other boy didn’t react to Nabisin’s presence. Had he been staring at the figure for more than a couple of minutes? He didn’t know."
-    nvlNar "They were alike in that they both had to take care of extra head gear that so annoyingly made matters difficult. Entering houses of smaller species was no easy feat."
+    nvlNar "He kept at a safe distance. {w}The other boy didn’t react to Nabisin’s presence. Had he been staring at the figure for more than a couple of minutes? He didn’t know."
+    nvlNar "They were alike in that they both had to take care of extra head gear that so annoyingly made matters difficult. {w}Entering houses of smaller species was no easy feat."
     nvlNar "It was impressive that both of them could squeeze into that space and reside it for more than a couple hours without feeling the abrasive walls closing in."
     nvl clear 
-    nvlNar "Trying to adjust himself to a more comfortable position, Nabisin tried to lean against a brittle wall. As soon as he put half of his weight against it, it collapsed, and he almost hit the ground."
+    nvlNar "Trying to adjust himself to a more comfortable position, Nabisin tried to lean against a brittle wall. {w}As soon as he put half of his weight against it, it collapsed, and he almost hit the ground."
     nvlNar "Awkwardly trying to pretend nothing had happened, one of the deer’s ears raised as he heard the sound of the crumbling bricks and ash rising."
     nvlNar "The figure looked back toward Nabisin, who had hurriedly and awkwardly tried to hide in another part of the ruins. The boy was holding a stick and drawing something in the dirt akin to a circle."
 # ???:
@@ -139,7 +140,7 @@ label chapter_2:
 # Nabisin:
     n "“Go away.”"
 # ???:
-
+    nvl clear
     "???" "“Why should I?”"
     "???" "“I’m just here by myself doing nothing.”"
 # Nabisin:
@@ -154,6 +155,7 @@ label chapter_2:
     nvlNar "Something was off. He could hardly recollect all that had happened in the last minute or so. It was as if nothing had happened."
     nvlNar "There was a gap in his memory, one that could never be filled, no matter how hard Nabisin tried to think the first day he met Lulu."
     "He didn’t think ill of his lover; maybe it was just a matter of being young and not remembering much of those times. Memories often get distorted over time."
+    scene black with Dissolve(2)
     "Lulu told Nabisin much later, once they started dating, that he had hit his head trying to hide from him."
     "And sure, Nabisin knew he had almost crumbled as he remembered details of the walls giving up on weight."
     "But, while it seemed easy to dismiss it as just kids being extremely clumsy, Nabisin couldn’t pinpoint the source of why his head later that day felt lighter than ever; maybe a headache had to stroke him, and recollecting the events of their first meeting must’ve been too embarrassing, even to your taste."
@@ -222,9 +224,11 @@ certainly not permitted to let this meeting happen!"
     "Before long, the palace shadow projected onto Nabisin and the guards scolding him. This menacing construction was the House of the Just and where Shulgi, King of the Four Corners of the World resided together with his personnel."  
     "He once visited this place during his years of learning as an acolyte; now he is here as a prisoner."
     show trial 
+    show n at center with moveinright
     "The place was mostly the same as it always had been; nothing new was here beyond the new guards and King Shulgi sitting on his throne."
     "The trial would begin once the scribes arrived at the scene, prompted to either record this legal procedure or to spew and remind the accused person of his crimes."
     "Neither Lulu nor Shelibuum were seen. They were either late or were not invited. This seemed quite strange, given that they also partook in Nabisin’s “crime” so to speak."
+    show u at left with moveinleft
     "Out of the corner of his eye, a most unpleasant visage appeared: that of Utudug, the bastard who had made Nabisin’s life a torment. Hadn’t the universe paired them during his time as an acolyte, things could have been considerably different."
     "Trying to control his breath, Nabisin hated Utudug with every fur of his being; he felt more than willing to strangle him and leave him to rot under the Euphrates; may the gods forget he was ever there."
     "The silent hatred behind his facade intoxicated Nabisin’s hot, boiling blood with the most vile poison, so much so that he was crushing Lulu’s gift he had been holding this entire time."
@@ -233,8 +237,7 @@ certainly not permitted to let this meeting happen!"
     "Nabisin tried to grab the fleeting gift, jumping and spinning, which seemed to have a desire of its own, but once he caught the statuette, it refused to move from its spot, almost as if it was designed to be there."
     "No matter how much force he applied to pull, twist, even knock the statuette over, it was melded to the ground."
 # Guard:
-    g "“Hey, you there! Get off the ground, mutt. The scribes
-are already here.”"
+    g "“Hey, you there! Get off the ground, mutt. The scribes are already here.”"
     "Trying not to embarrass himself more, he rose from the ground and went back to his place. He remembered when Shelibuum gave him the statuette and how, even though it had been less than a day, he had given the object emotional significance as a gift, hope, and love."
     "Yet it slipped from his hands as if it were forcibly jerked away, leading him to believe some otherworldly force animated it."
     "He couldn’t understand the meaning of anything that happened within the last days or so." 
@@ -317,6 +320,7 @@ room goes silent."
     "Then, it came to Nabisin he needed to do this. {w}He wanted to. As much as kindness and reciprocity was his motif, his anger overwhelmed all other senses."
     "No one should be subjected to having their life threatened in this manner." 
     "Nabisin landed a swift kick to Utudug’s face, after which he fell into another puddle of mud. {w}It soon succumbed to his weight and impact, swallowing the demon with a catlike disguise."
+    play sound "kick.mp3"
     "He was finally gone for good, and as much Nabisin felt tired and dirty, he felt like he had stood up to all the bad people in his life and literally kicked the worst of them all in the face."
     "Tired and feeling quite limp, he fell to his knees after such eventful evening. {w}The setting sun kissed his face with its array of yellow, orange and red colors while the sky displayed an even more beautiful array that made every moment of hell he had recently experienced somehow worth it."
     "Freedom. {w}Nabisin was liberated from the shackles of those who were against him. He didn’t care whether he had ended an entire dynasty or somehown ended the lives of people who were going to kill him anyway."
@@ -341,6 +345,6 @@ room goes silent."
     l   "“{cps=2}...{/cps}”"
     l   "“I know, its always been like this since we met, but
 there’s something I need to tell you...”"
-scene black with dissolve
+scene black with dissolve(1.5)
 $persistent.chapter_2 = True
 return 

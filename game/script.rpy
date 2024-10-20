@@ -15,7 +15,10 @@ define s = Character("Shelibuum",  color="#ff00b3", image="s.png")
 image s:    
     "images/sprites/s.png"
     zoom 0.5, yoffset 215
-define u = Character("Utudug", color="#352f83")
+define u = Character("Utudug", color="#352f83", image="u.png")
+image u:  
+    "images/sprites/u.png"
+    zoom 0.5, yoffset 215
 define e = Character("Elutil")
 define k = Character("Kurragal")
 define nvlNar = Character(None, kind=nvl_narrator)

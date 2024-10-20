@@ -216,6 +216,7 @@ label chapter_1:
 
     show l_n at left with moveinleft:
         zoom 0.5, xzoom -1
+        yoffset 100
     l  "“Nabby, come join me here the water is so good~.”"
  
     n  "“Luu, you’re such a crybaby; I’m going to join you silly.”"
@@ -238,6 +239,7 @@ label chapter_1:
         zoom 0.5
     show l_n with dissolve:
         zoom 0.5, xzoom -1, xalign 0.4
+        yoffset 100
     
     "Planting several kisses on his cheeks, Nabisin couldn’t stop laughing as the whole situation melts into several feelings just by being by his lover."
     
