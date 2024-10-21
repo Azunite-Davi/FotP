@@ -14,7 +14,7 @@ screen chapters:
             hbox:
                 spacing 25
                 imagebutton:
-                    auto "chpt/chptnab_%s.png"
+                    auto "chpt/prologue_%s.png"
                     action Start("prologue")
                     at customzoom 
                 imagebutton:
