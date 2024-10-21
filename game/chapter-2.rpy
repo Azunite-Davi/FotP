@@ -156,21 +156,24 @@ label chapter_2:
     nvlNar "There was a gap in his memory, one that could never be filled, no matter how hard Nabisin tried to think the first day he met Lulu."
     "He didn’t think ill of his lover; maybe it was just a matter of being young and not remembering much of those times. Memories often get distorted over time."
     scene black with Dissolve(2)
-    "Lulu told Nabisin much later, once they started dating, that he had hit his head trying to hide from him."
-    "And sure, Nabisin knew he had almost crumbled as he remembered details of the walls giving up on weight."
-    "But, while it seemed easy to dismiss it as just kids being extremely clumsy, Nabisin couldn’t pinpoint the source of why his head later that day felt lighter than ever; maybe a headache had to stroke him, and recollecting the events of their first meeting must’ve been too embarrassing, even to your taste."
-    "Trust was blindly put to exercise; Nabisin didn’t think of that day anymore but of the moments that made their relationship real and tangible."
-    "Lulu kept on, a bit hesitant, as if he also had trouble recollecting the events of that day. Even so, Nabisin always felt Lulu omitted crucial details in the narrative."
-    "He said he ran to Nabisin’s aid, afraid he would die if he got horns injured, something that could aggravate matters."
-    "But, something didn’t sit right with that follow up either. If Lulu hadn’t helped him, would he be dead?"
-    "It was silly to think of such a thing. Right now, he should focus on something else. Lingering on these thoughts offers no service."
-    "There were many things Nabisin didn’t know about Luludân, which was agonizing to some degree, as if Luludân drew lines in their relationship."
-    "No, they were always honest with each other; their relationship had no lies, limits, or gaps. It was almost as if he had been under some spell Lulu put him through, but that was unlikely also. Magic was prohibited, and even then the gods would never allow it."
-    "He had questioned it for a long time, a persistant nagging thought that he had somehow been under Lulu’s spell, as if it were a strange possibility." 
-    "Natural laws couldn’t explain their union and boundless love, but there they were, in bright light, being themselves and loving themselves."
-    "A man was designed to be with a woman, or so they were thought to be."
-    nvlNar "Luludân was designed for Nabisin, and they were satisfied with their own self-crafted truth. However, the details of that first meeting became murkier as the years passed. "
+    nvlNar "Lulu told Nabisin much later, once they started dating, that he had hit his head trying to hide from him."
+    nvlNar "And sure, Nabisin knew he had almost crumbled as he remembered details of the walls giving up on weight."
+    nvlNar "But, while it seemed easy to dismiss it as just kids being extremely clumsy, Nabisin couldn’t pinpoint the source of why his head later that day felt lighter than ever; maybe a headache had to stroke him, and recollecting the events of their first meeting must’ve been too embarrassing, even to your taste."
+    nvl clear
+    nvlNar "Trust was blindly put to exercise; Nabisin didn’t think of that day anymore but of the moments that made their relationship real and tangible."
+    nvlNar "Lulu kept on, a bit hesitant, as if he also had trouble recollecting the events of that day. Even so, Nabisin always felt Lulu omitted crucial details in the narrative."
+    nvlNar "He said he ran to Nabisin’s aid, afraid he would die if he got horns injured, something that could aggravate matters."
+    nvlNar "But, something didn’t sit right with that follow up either. If Lulu hadn’t helped him, would he be dead?"
+    nvlNar "It was silly to think of such a thing. Right now, he should focus on something else. Lingering on these thoughts offers no service."
+    nvlNar "There were many things Nabisin didn’t know about Luludân, which was agonizing to some degree, as if Luludân drew lines in their relationship."
+    nvlNar "No, they were always honest with each other; their relationship had no lies, limits, or gaps. It was almost as if he had been under some spell Lulu put him through, but that was unlikely also. Magic was prohibited, and even then the gods would never allow it."
+    nvl clear
+    nvlNar "He had questioned it for a long time, a persistant nagging thought that he had somehow been under Lulu’s spell, as if it were a strange possibility." 
+    nvlNar "Natural laws couldn’t explain their union and boundless love, but there they were, in bright light, being themselves and loving themselves."
+    nvlNar "A man was designed to be with a woman, or so they were thought to be."
+    nvlNar "Luludân was designed for Nabisin, and they were satisfied with their own self-crafted truth. However, the details of that first meeting became murkier as the years passed."
 # [end of flashback]
+    scene prison with Dissolve 
     "He found himself cornered once again in a different place, one unfamiliar to him. His prison revealed itself in all of its terrifying glory."
     "Pulled out of his thoughts, guards approached his cell."
     "Enormous in stature compared to his modest frame, Nabisin always had to look up as both a sign of respect and honor for their noble job, despite this time keeping an innocent man behind bars."
@@ -195,8 +198,8 @@ certainly not permitted to let this meeting happen!"
     "The perfection was beyond any other man’s capacity, only one such as Lulu could’ve made such beautiful statuette with such detail and mindfulness."
     "It was a goat, like him, with its arms outstretched in prayer formation, though now that he examined the statuette, it seemed malleable enough to form any pose."
     "A visible smile cracked onto his face. Nabisin could feel as if the dark corridor he had been so desperately looking for a way out from had become less narrow."
-    "I knew it!" #nabisin thinking
-    "He’s still after me!"
+    n "{i}I knew it!{/i}" #nabisin thinking
+    n "{i}He’s still after me!{/i}"
     "Even though happiness restored Nabisin’s hope, as if he could sense Lulu’s presence in his enclosure, reaching for his chin and caressing his fur, he had more pressing matters."
     "Getting a sign is the first step towards his liberation. Now, the hard part is still to come. He attempted to script how his trial may proceed in his mind."
     "Now that the heavy weight was swiftly lifted, the bed seemed to draw even closer to him. His thoughts were all around the place. It gave himself another excuse to just lay down and forget everything."
@@ -247,28 +250,30 @@ certainly not permitted to let this meeting happen!"
 # Judge:
     "Judge" "“Nabisin, The one who calls upon Sîn, may you be judged with the god’s favor on your side, and may the rivers spare you. We are united here for your offenses towards Utudug, he who is good, towards your unnatural liking for the same as your sex.”"
     "Judge" "“Can you contest these accusations?”"
-    "The piercing and demanding voice of the judge cut through the air. Everyone, including Nabisin, was taken back to the memory of that night."
+    "The piercing and demanding voice of the judge cut through the air. {w}Everyone, including Nabisin, was taken back to the memory of that night."
     "The offense was to speak up before a high member of the priests, their favorite in fact, and leave so soon as to displease the high priests who had traveled from far and wide."
-    "Nabisin tried to speak; his mouth was gaping open several seconds before he could mutter any word under his breath."
+    "Nabisin tried to speak; {w}his mouth was gaping open several seconds before he could mutter any word under his breath."
     "Given his anger and almost desperation, he finally spurts some words."
 # Nabisin:
     n "“It was not my intention to so disrespect and misbehave as my high rank so demands at the feast.”"
     n "“Utudug has always been a sore pain in my life. From the time we were paired during our training to this very sour day.”"
-    "Trying to subdue his anger, he inhaled and exhaled in hopes of simmering down his hateful thoughts. He calmly returned to his monologue."
-    n "“If thou hast a problem with what I do with my life, may the gods be in my favor and bring reason to this. It is not your business to force yourself into my affairs and declare my desires to be inappropriate.”"
-    n "“Only the gods are to administrate these petty matters. Haven’t you noticed the increasing danger of Euphrates flooding our fields? Of our foodstuffs decaying? It is known our instability has only begun.”"
+    "Trying to subdue his anger, he inhaled and exhaled in hopes of simmering down his hateful thoughts. {w}He calmly returned to his monologue."
+    n "“If thou hast a problem with what I do with my life, may the gods be in my favor and bring reason to this. {w}It is not your business to force yourself into my affairs and declare my desires to be inappropriate.”"
+    n "“Only the gods are to administrate these petty matters. {w}Haven’t you noticed the increasing danger of Euphrates flooding our fields? Of our foodstuffs decaying? It is known our instability has only begun.”"
     "The room fell into a deafening silence; even the judge and Utudug felt conflicted about speaking up again."
-    "A dense aura surrounded the place. The air felt quite heavy to breathe, as a thin beam of light appeared to shift and dance. Nabisin felt sweaty for a moment, staring intently toward the statuette that was attached to the floor."
-    "No one other than Nabisin noticed the atmosphere around them mutating, manifesting some tempest or solar eclipse. The statuette was too far away, just outside his range of vision to notice the small details. But its silhouette was visible, and it changed its pose." 
+    "A dense aura surrounded the place. {w}The air felt quite heavy to breathe, as a thin beam of light appeared to shift and dance." 
+    "Nabisin felt sweaty for a moment, staring intently toward the statuette that was attached to the floor."
+    "No one other than Nabisin noticed the atmosphere around them mutating, manifesting some tempest or solar eclipse. {w}The statuette was too far away, just outside his range of vision to notice the small details. But its silhouette was visible, and it changed its pose." 
     "He couldn’t quite understand what pose it was trying to do or what was happening."
-    "His overwhelmed senses were overcome, the last barrier preventing insanity. The ground felt like it was crumbling; he wanted to either vomit or faint. Then just as suddenly, everything subdued, being cut with the Judge’s harsh voice."
+    "His overwhelmed senses were overcome, the last barrier preventing insanity. {w}The ground felt like it was crumbling; he wanted to either vomit or faint." 
+    "Then just as suddenly, everything subdued, being cut with the Judge’s harsh voice."
 # Judge:
-    "Judge" "“NABISIN! Are you still with us?”"
+    "Judge" "“NABISIN! {w}Are you still with us?”"
 # Nabisin:
     n "“Pardon, I may have entered a state of unwellness; my senses were overwhelmed-”"
 # Judge:
-    "Judge" "“Silence! Your time is over. Utudug, who is good, may you speak?”"
-    "His ill intentions bathed his face with contempt, but he stood loosely. Calmness was his mask, and his calculated, condescending gestures and words spit like a cobra’s venom."
+    "Judge" "“Silence! {w}Your time is over. Utudug, who is good, may you speak?”"
+    "His ill intentions bathed his face with contempt, but he stood loosely. {w}Calmness was his mask, and his calculated, condescending gestures and words spit like a cobra’s venom."
 # Utudug:
     u "“Well, I know much about our infancy and time spent at the temples, cares, and I didn’t hold such grudges against you, Nabisin. I remind you, our activities were weak, but you grew sour of me and my comrades. How can one speak up for you when you clearly can’t handle a playful shove?”"
     u "“Onto the next matter, your liking is evident; you are feminine. Girl-like. Your taste is vile and that of twisted nature. That’s very much why the gods had passed down the laws we know and exercise on this land, which by your own narrative is being punished by divine intervention or lack thereof.”"
@@ -286,8 +291,7 @@ certainly not permitted to let this meeting happen!"
     "Not only was Nabisin’s fate given to others to meddle with, but his temper once again started to become increasingly hard to control once he started to stare at the statuette."
     "Time seemed to slow down, and the object he once appreciated seemed to move graciously, painting a pose that Nabisin tried to imitate."
 # Judge:
-    "Judge" "“It is decided so, Nabisin, you are set to receive fifty
-blo-…”" #(text gets progressively small)
+    "Judge" "“It is decided so, Nabisin, you are set to receive fifty blo-...”" #(text gets progressively small)
     "The voice of the judge started to get muffled as the
 room goes silent."
     play music "rolling_stones.mp3" volume 0.6 loop fadein 0.5

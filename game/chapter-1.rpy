@@ -91,7 +91,7 @@ label chapter_1:
     "Its also of his craft to be a carpenter when he has time to do so."
     "He carves little statuettes of the Dingir for those who can’t buy one made out of stone."
     "Even more, he’s also specialized in votive offerings of sick people who had been cured by their familiar deity."
-    stop music fadeout 0.2
+    
     scene temple with dissolve
     show n at right with moveinright
     e  "“Oi, Nabisin, my young priest.”"
@@ -164,6 +164,7 @@ label chapter_1:
     k " “Don’t be a stranger Nabby, I know the temple keeps you busy but take some time for you.”"
     " With that, Kurra sprint back to his house, almost falling from stumbling on some rocks."
     "Back on track, Nabisin quickly came back home."
+    stop music fadeout 0.2
     scene house with dissolve
 
     n  "“Hey Lulu, where are you?”"
@@ -307,10 +308,10 @@ label chapter_1:
     "To their relief the high priests came, bearing a shocking revelation for everyone at the table."
     "Just across the table Shelibuum sat patiently, calmly listening to the high priests babble whenever she was able."
     "Although incredibly useful,  she was just another acolyte in training."
-    "Already bored of the altercation, relief came when the music finally began to play."
     play music "Arabeat.mp3" loop fadein 0.5
+    "Already bored of the altercation, relief came when the music finally began to play."
     "Food was also served alongside."
-    "…"
+    "..."
     "Once everybody was satisfied with their meal, conversation about matters regarding the ceremony in honour of the god of the moon sprung up."
     "Suddenly Nabisin felt a touch, or rather a hand slip into his thighs. It was Lulu, who wanted to speak in private."
     "They both excused themselves and went to a private enclure within the temple, away from the treasury so as not to raise suspicions."
@@ -320,7 +321,7 @@ label chapter_1:
         xzoom -1
     # Lulu:
     l "“Hey, I know this is for you, but we need to go.”"
-    l    "“That Utudug person represents unknown risks.”"
+    l "“That Utudug person represents unknown risks.”"
     # Nabisin:
     n    "“I am deeply sorry, I didn’t mean to ruin this night.”"
     # Lulu:

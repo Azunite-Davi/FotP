@@ -53,7 +53,7 @@ label prologue:
     nvlNar "Now as an Architect as well, would experiencing death be a good thing? He questioned it no more. {w}He needed to take additional steps to put his plan into action."
     nvlNar "However, he couldn’t find anybody fit for the task at hand: to hold infinite power, to be able to rip apart galaxies, to know all the secrets of existence."
     nvlNar "Of course, he had already secured the future holder of this power. {w}It was imperative they wouldn’t break out of the confines of this plane and pierce through his barrier." 
-    nvlNar "Perhaps they could see into realms beyond this existance through a reflection. But there was no time to speculate." 
+    nvlNar "Perhaps they could see into realms beyond this existance through a {i}{color=#e619b9}reflection{/color}{/i}. But there was no time to speculate." 
     nvl clear
     # make "reflection" stand out
     nvlNar "{cps=2}.......{/cps}"
