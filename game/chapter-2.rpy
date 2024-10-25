@@ -89,7 +89,7 @@ label chapter_2:
 # [day 1]
     scene prison with dissolve 
     "Moist, stale air awaited Nabisin inside the prison the kings had designed to hold hardened criminals. Rarely was someone imprisoned there; house arrest was much preferred for less sensitive cases."
-    play music "prison.mp3" fadein 0.5 loop
+    play music "Hope Amidst the Desolation.mp3" fadein 0.5 loop
     "Yet, Nabisin had been an essential priest for many years, having escaped servitude under the current reign of King Shulgi."
     "Needless to say, it’s a sensitive case. Perhaps any further ruckus would lead the populace to question the authority and resolve of the king. He likely needed to care of Nabisin before more rumors went astray."
     "It is not a king’s perogative to execute the punishment, but rather that of judges and other scribes; through his connections, perhaps Lulu could help Nabisin, but that is for the future to decide."
@@ -127,6 +127,7 @@ label chapter_2:
     nvlNar "He was squinting and contorting himself to penetrate the crevices of his hideout."
     nvlNar "He felt an odd presence, larger than himself. {w}He then noticed an antler peeking out."
     nvlNar "At first, Nabisin thought it would poke out his eye, blinding him."
+    nvl clear
     nvlNar "He kept at a safe distance. {w}The other boy didn’t react to Nabisin’s presence. Had he been staring at the figure for more than a couple of minutes? He didn’t know."
     nvlNar "They were alike in that they both had to take care of extra head gear that so annoyingly made matters difficult. {w}Entering houses of smaller species was no easy feat."
     nvlNar "It was impressive that both of them could squeeze into that space and reside it for more than a couple hours without feeling the abrasive walls closing in."
@@ -236,7 +237,7 @@ certainly not permitted to let this meeting happen!"
     "Before long, the palace shadow projected onto Nabisin and the guards scolding him. {w}This menacing construction was the House of the Just and where Shulgi, King of the Four Corners of the World resided together with his personnel."  
     "He once visited this place during his years of learning as an acolyte; now he is here as a prisoner."
     show trial 
-    play music "trial_song.mp3" fadein 0.5 loop
+    play music "Going In Circles.mp3" fadein 0.5 loop
     show n at center with moveinright
     "The place was mostly the same as it always had been; nothing new was here beyond the new guards and King Shulgi sitting on his throne."
     "The trial would begin once the scribes arrived at the scene, prompted to either record this legal procedure or to spew and remind the accused person of his crimes."
@@ -337,8 +338,8 @@ room goes silent."
     "His distorted face of hatred and vengeance was all that Nabisin could see as Utudug rapidly became snail- like, his legs had been crushed by the earthquake he had summoned."
     "Then, it came to Nabisin he needed to do this. {w}He wanted to. {w}As much as kindness and reciprocity was his motif, his anger overwhelmed all other senses."
     "No one should be subjected to having their life threatened in this manner." 
+    play sound "kick.mp3" volume 1.5
     "Nabisin landed a swift kick to Utudug’s face, after which he fell into another puddle of mud. {w}It soon succumbed to his weight and impact, swallowing the demon with a catlike disguise."
-    play sound "kick.mp3"
     "He was finally gone for good, and as much Nabisin felt tired and dirty, he felt like he had stood up to all the bad people in his life and literally kicked the worst of them all in the face."
     "Tired and feeling quite limp, he fell to his knees after such eventful evening. {w}The setting sun kissed his face with its array of yellow, orange and red colors while the sky displayed an even more beautiful array that made every moment of hell he had recently experienced somehow worth it."
     "Freedom. {w}Nabisin was liberated from the shackles of those who were against him. He didn’t care whether he had ended an entire dynasty or somehown ended the lives of people who were going to kill him anyway."

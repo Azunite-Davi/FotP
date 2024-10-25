@@ -39,6 +39,7 @@ label prologue:
     nvlNar "It was always the same process: create until there’s nothing left to make, oversee, legislate the order of the divine, record the failures and shortcomings of the mortals, then destroy all until nothing remains."
     nvlNar "The current world was born from the first Crack in the Shell; a second could bring instability and lead to ruin."
     nvlNar "That’s why he was assigned this exceptional job, keep the second crack sealed. {w}Twice he had broken his sacred duty, breaking his vow. If it weren’t for other pressing matters, he would be much present in the lives of Earthlings."
+    nvl clear
     nvlNar "Despite everything, he chose to remain dormant."
     nvlNar "His disobedience delayed the cycle of awakening of the Sons of Light, and they rotted beneath the ground. {w}Their souls dispersed, and a new form of life emerged." 
     nvlNar "Though they possessed the souls of Sons, their forms assumed a beast-like appearance, and each had their own quirks."
@@ -55,7 +56,7 @@ label prologue:
     nvlNar "Now as an Architect as well, would experiencing death be a good thing? He questioned it no more. {w}He needed to take additional steps to put his plan into action."
     nvlNar "However, he couldn’t find anybody fit for the task at hand: to hold infinite power, to be able to rip apart galaxies, to know all the secrets of existence."
     nvlNar "Of course, he had already secured the future holder of this power. {w}It was imperative they wouldn’t break out of the confines of this plane and pierce through his barrier." 
-    nvlNar "Perhaps they could see into realms beyond this existance through a {i}{color=#e619b9}reflection{/color}{/i}. But there was no time to speculate." 
+    nvlNar "Perhaps they could see into realms beyond this existence through a {i}{color=#e619b9}reflection{/color}{/i}. But there was no time to speculate." 
     nvl clear
     # make "reflection" stand out
     nvlNar "{cps=2}.......{/cps}"
@@ -68,7 +69,7 @@ label prologue:
     play music "forest_ambiance.mp3" fadein 1.0
     nvlNar "There he finally noticed someone, around early childhood, serving in the household of a wealthy family." 
     nvlNar "He still had no name and could barely speak. {w}After all, why bother with a name for mere property?"
-    nvlNar "The child cowered within the walls of the house, afraid of the massive world that stood out to him. His owners, a family of cats, were away for awhile. {w}He spoke directly into the kid's skull to communicate more privately."
+    nvlNar "The child cowered within the walls of the house, afraid of the massive world that stood out to him. {w}His owners, a family of cats, were away for awhile. {w}He spoke directly into the kid's skull to communicate more privately."
     nvl clear
   
 # “Him”:
