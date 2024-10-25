@@ -15,9 +15,10 @@ label prologue:
     scene space with Dissolve(1.5)
     play music "oscillating-space-waves.mp3" fadein 2.0 loop
     nvlNar "His destiny was decided eons ago, set in stone by the Architect who once was his friend."
-    nvlNar "Yet he ignored his own destiny, disrespected the elders, and broke the seal. {w}He released Flame onto every animal." 
-    nvlNar "He wanted things to change because he already knew what would happen if he kept the Flame only to himself and the Architects, the gift to look up and tell to the stars who burnt without cease. "
+    nvlNar "Yet he ignored his own destiny, disrespected the elders, and broke the seal. {w}He released The Flame onto every animal." 
+    nvlNar "He wanted things to change because he already knew what would happen if he kept The Flame only to himself and the Architects, the gift to look up and tell to the stars who burnt without cease. "
     nvlNar "Without guidance, he went astray, trudging though another thousand years without a purpose to fulfill or work to occupy his emptyness. {w}He witnessed civilizations rise and fall."
+    nvl clear
     nvlNar "Agriculture had been discovered by the mortals a few years prior to his arrival. {w}Finally, something new! The landscape sprang to life as they worked the soil, yet he felt almost nothing towards these little creatures."
     nvlNar "He witnessed their resilience: They fought with all their might to survive pestilence, disasters, murder, and war."
     nvlNar "Death was the barrier that separated the mortals of this world from what came after." 
@@ -30,6 +31,7 @@ label prologue:
     nvlNar "They played and constructed buildings, to which they gave many purposes: houses for unknown figures, houses for goods, houses for sleep, amongst many other kinds."
     nvlNar "He finally began to see potential in them, though it soon gave way to disappointment for practicing so many vile things."
     nvlNar "Slavery, unjust punishment, murder, infidelity and corruption."
+    nvl clear
     nvlNar "He could do nothing about it; direct interference would only reveal himself and make him easy prey for the Architects."
     nvlNar "He despised being granted such immense, albeit useless power."
     nvlNar "In ages past, his mentor taught him the process of creating, administrating, archiving, and destroying all, from a grain of sand to entire galaxies."

@@ -109,7 +109,7 @@ label chapter_1:
     n  "“Thank you for that. I was sure I had angered the Dingir threefold by being absent for so long.”"
     n  "“But I am joyous of my return to the temple duties.”"
  
-    e "“Enough of that chattering.” "
+    e  "“Enough of that chattering.” "
     e  "“I heard the king shall commute with us today evening.”"
     e  "“Heard this will the appointment ceremony of newcomer priests and reassigning of areas of acting.”"
 
@@ -139,11 +139,11 @@ label chapter_1:
     n  "“I hope the other temple staff won’t notice your belittling of the occasion.”"
 
     e  "“All I do is for the people and especially the weak.”"
-    e " “If their mood is easily soured, then I have no business with those men.”"
-    e " “Tell them on my behalf, I have more important hidden matters for the next three days.”"
+    e "“If their mood is easily soured, then I have no business with those men.”"
+    e "“Tell them on my behalf, I have more important hidden matters for the next three days.”"
 
-    n  "“That’ll do.”"
-    " That day was specially windy."
+    n "“That’ll do.”"
+    "That day was specially windy."
     "A simple white robe flies as the wind strangles the simple fabric."
     "Unbothered but still appreciating the freedom the soft breeze."
     "Snapping out of this trance, Nabisin starts jogging towards home."
