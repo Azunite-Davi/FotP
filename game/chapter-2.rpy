@@ -355,7 +355,7 @@ room goes silent."
     "Once their bodies met in sweet embrace, everything else became a blur. {w}Right now they couldn’t be separated, even by the strongest force in the universe, their love was boundless, especially now when they haven’t seen each other for days."
     "The wind settled down, the sun rested beyond the horizon, and they both cried upon each other’s arms."
 # Nabisin:
-    n   "“I-, I missed you greatly.”"
+    n   "“I-, {w}I missed you greatly.”"
     "Sheepishly admitting to Luludân, Nabisin took hold of his muzzle analyzing each and every detail of his features." 
     "Soon they both kissed and caressed each other. {w}Luludân however moved his hand discretely. A few pillars shifted, raising them up above the ruins."
     "As the night settled in, they cuddled until one of them broke the silence with a simple question."
