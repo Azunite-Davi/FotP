@@ -180,7 +180,7 @@ label chapter_2:
     nvlNar "A man was designed to be with a woman, or so they were thought to be."
     nvlNar "Luludân was designed for Nabisin, and they were satisfied with their own self-crafted truth. However, the details of that first meeting became murkier as the years passed."
 # [end of flashback]
-    scene prison with Dissolve 
+    scene prison with dissolve 
     "He found himself cornered once again in a different place, one unfamiliar to him. His prison revealed itself in all of its terrifying glory."
     "Pulled out of his thoughts, guards approached his cell."
     "Enormous in stature compared to his modest frame, Nabisin always had to look up as both a sign of respect and honor for their noble job, despite this time keeping an innocent man behind bars."
@@ -366,6 +366,6 @@ room goes silent."
     l   "“{cps=2}...{/cps}”"
     l   "“I know, its always been like this since we met, but
 there’s something I need to tell you...”"
-scene black with dissolve(1.5)
+scene black with Dissolve(1.5)
 $persistent.chapter_2 = True
 return 
