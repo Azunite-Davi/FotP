@@ -199,7 +199,7 @@ label chapter_1:
     n  "“Quickly!”"
     n  "“Let’s go to the bathhouse, there I shall borrow you acolite garments.”"
     "Taking Lulu by his hand, they hug tightly."
-    scene bath_1 with dissolve
+    scene bath with dissolve
     "On their way to the bathhouse the night begins slowly."
     "The bathhouse was especially empty that evening."
     "Lulu was quick to strip down, as he only had a few garments and a tunic."
@@ -235,7 +235,6 @@ label chapter_1:
     "Trying to swim with such huge horns was no easy task."
     " Antlers too proved to be a challenge for Lulu."
     "Slowing down, Lulu wrapped his arms around Nabisin for a tight hug, spooning him but also trapping him in his wet embrace."
-    scene bath_2 with dissolve
     show n_n at right with dissolve:
         zoom 0.5
     show l_n with dissolve:

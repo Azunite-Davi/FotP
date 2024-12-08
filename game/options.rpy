@@ -50,7 +50,7 @@ define config.default_music_volume = 0.7
 define config.default_sfx_volume = 0.7
 define config.has_sound = True
 define config.has_music = True
-define config.has_voice = True
+define config.has_voice = False
 
 
 ## To allow the user to play a test sound on the sound or voice channel,
@@ -145,7 +145,7 @@ default preferences.afm_time = 15
 ## This generally should not be changed, and if it is, should always be a
 ## literal string, not an expression.
 
-define config.save_directory = "FragmentsofthePast-1724863639"
+define config.save_directory = "FragmentsofthePast"
 
 
 ## Icon ########################################################################

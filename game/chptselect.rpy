@@ -17,6 +17,7 @@ screen chapters:
                     auto "chpt/prologue_%s.png"
                     action Start("prologue")
                     at customzoom 
+                
                 imagebutton:
                     auto "chpt/chapter1_%s.png"
                     action Start("chapter_1")
