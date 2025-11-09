@@ -1,4 +1,5 @@
 label chapter_1:
+
     scene sun with Dissolve(4.5)
     "I plant a gentle kiss on his forehead."
     "With this little morning ritual our day begins with a prayer to Utu, god of the Sun and justice."
